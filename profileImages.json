@@ -1,14 +1,14 @@
 {
-  "images": [
-    "https://i1.sndcdn.com/artworks-3ZpseJbxIrhfUSeX-kzmhrQ-t500x500.jpg",
-    "https://a.pinatafarm.com/336x336/de86f21c0f/willy-wonka-blank.jpg",
-    "https://pbs.twimg.com/ext_tw_video_thumb/1467162120823451653/pu/img/7YLFIdQbzh-zFcYT.jpg",
-    "https://i.pinimg.com/474x/77/11/c7/7711c7a8749bd065736d815636fbdc0e.jpg",
-    "https://a.pinatafarm.com/423x348/f667af2639/smart-black-guy.jpg",
-    "https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png",
-    "https://static.wikia.nocookie.net/skibidi-toilet-official/images/b/b1/GiantST.png/revision/latest/thumbnail/width/360/height/360?cb=20240205231829",
-    "https://content.imageresizer.com/images/memes/nice-Michael-Rosen-meme-7.jpg",
-    "https://upload.wikimedia.org/wikipedia/en/f/ff/SuccessKid.jpg",
-    "https://content.imageresizer.com/images/memes/Shrek-meme-1.jpg"
-  ]
+  "images": {
+    "0": "https://i1.sndcdn.com/artworks-3ZpseJbxIrhfUSeX-kzmhrQ-t500x500.jpg",
+    "1": "https://a.pinatafarm.com/336x336/de86f21c0f/willy-wonka-blank.jpg",
+    "2": "https://pbs.twimg.com/ext_tw_video_thumb/1467162120823451653/pu/img/7YLFIdQbzh-zFcYT.jpg",
+    "3": "https://i.pinimg.com/474x/77/11/c7/7711c7a8749bd065736d815636fbdc0e.jpg",
+    "4": "https://a.pinatafarm.com/423x348/f667af2639/smart-black-guy.jpg",
+    "5": "https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png",
+    "6": "https://static.wikia.nocookie.net/skibidi-toilet-official/images/b/b1/GiantST.png/revision/latest/thumbnail/width/360/height/360?cb=20240205231829",
+    "7": "https://content.imageresizer.com/images/memes/nice-Michael-Rosen-meme-7.jpg",
+    "8": "https://upload.wikimedia.org/wikipedia/en/f/ff/SuccessKid.jpg",
+    "9": "https://content.imageresizer.com/images/memes/Shrek-meme-1.jpg"
+  }
 }
